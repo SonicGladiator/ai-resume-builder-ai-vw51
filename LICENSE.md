@@ -1,4 +1,4 @@
-# 
+# Léger AI Resume Builder scripts. Avec traitement du langage naturel et reconnaissance d'images — optimisé pour des performances maximales.
 
 
 
